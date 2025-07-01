@@ -1,0 +1,22 @@
+{
+	"Name": "role_duoji_heifa_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4467045394701023171 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5874638282322933423 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2447722653799634 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6248414213427256698 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1668692908011193930 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7845561473898775015 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1854421861711822053 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1395724620761967464 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6693881069415375985 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1818889704720911091 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -7305204561207879618 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 352221829046216490 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -764640258296631515 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3702246888291711839 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1242914350744653052 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -8718421899256847581 }
+	]
+}

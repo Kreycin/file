@@ -1,0 +1,22 @@
+{
+	"Name": "role_mingnv_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1887489265309024628 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -9063415358686165572 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5536329004957361922 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2703047870159303585 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -7829673789271515924 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1335065204592486831 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3285812859815227133 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 770622570541544938 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6791151670826115097 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2385132015026473793 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6904150228838532095 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8204107850308030301 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2085071126976481336 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1151982273280613463 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5166833319199348998 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 138587794251168925 }
+	]
+}

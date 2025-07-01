@@ -1,0 +1,43 @@
+{
+	"m_AssetBundleName": "eff_j_mesh_banwenyiyong_shizhuang_02.9",
+	"m_Container": {
+		"assets/artresources/artbase/effect/effect_mesh/eff_j_mesh_banwenyiyong_shizhuang_02.fbx": {
+			"m_Asset": { "m_Collection": "cab-46acba7ca513c43b687bbb44794f40c2", "m_PathID": 2615186083959770216 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 8
+		},
+		"assets/artresources/artbase/effect/effect_mesh/eff_j_mesh_banwenyiyong_shizhuang_02.fbx": {
+			"m_Asset": { "m_Collection": "cab-46acba7ca513c43b687bbb44794f40c2", "m_PathID": -3574477283158310525 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 8
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-46acba7ca513c43b687bbb44794f40c2", "m_PathID": 0 },
+	"m_Dependencies": [
+		"shader_list.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-46acba7ca513c43b687bbb44794f40c2", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "eff_j_mesh_banwenyiyong_shizhuang_02.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-46acba7ca513c43b687bbb44794f40c2", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-46acba7ca513c43b687bbb44794f40c2", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-46acba7ca513c43b687bbb44794f40c2", "m_PathID": 8931043560671302228 },
+		{ "m_Collection": "cab-46acba7ca513c43b687bbb44794f40c2", "m_PathID": -8865490697692763191 },
+		{ "m_Collection": "cab-46acba7ca513c43b687bbb44794f40c2", "m_PathID": -3574477283158310525 },
+		{ "m_Collection": "cab-46acba7ca513c43b687bbb44794f40c2", "m_PathID": -1383351323325330753 },
+		{ "m_Collection": "cab-46acba7ca513c43b687bbb44794f40c2", "m_PathID": 2615186083959770216 },
+		{ "m_Collection": "cab-46acba7ca513c43b687bbb44794f40c2", "m_PathID": 3589331912684631623 },
+		{ "m_Collection": "cab-46acba7ca513c43b687bbb44794f40c2", "m_PathID": 4069211212744940308 },
+		{ "m_Collection": "cab-46acba7ca513c43b687bbb44794f40c2", "m_PathID": 6975505282133334523 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

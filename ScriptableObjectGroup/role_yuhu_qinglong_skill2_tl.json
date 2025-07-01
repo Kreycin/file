@@ -1,0 +1,27 @@
+{
+	"Name": "role_yuhu_qinglong_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8543862257051327237 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1227844828572691588 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -7379223492197797930 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6232763561165271155 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5436679314707249634 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5446607866012831312 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -9009927607175706651 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -8176566991490857399 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -7096000849184453720 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3647817996793325303 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3868632994091120433 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1808748723235486080 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4283821944268798426 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -8702480281956499004 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4954751858312664430 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8287105207283474627 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1224434273391401325 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 389351915101996409 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5305636890894901132 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2827868415344065301 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1454765268256929578 }
+	]
+}

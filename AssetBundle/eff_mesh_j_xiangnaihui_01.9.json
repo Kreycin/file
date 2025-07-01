@@ -1,0 +1,43 @@
+{
+	"m_AssetBundleName": "eff_mesh_j_xiangnaihui_01.9",
+	"m_Container": {
+		"assets/artresources/artbase/effect/effect_mesh/eff_mesh_j_xiangnaihui_01.fbx": {
+			"m_Asset": { "m_Collection": "cab-94e72dbe9e8cd7c4b203ad96ad5b3ff8", "m_PathID": 2136019946367525013 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 8
+		},
+		"assets/artresources/artbase/effect/effect_mesh/eff_mesh_j_xiangnaihui_01.fbx": {
+			"m_Asset": { "m_Collection": "cab-94e72dbe9e8cd7c4b203ad96ad5b3ff8", "m_PathID": -7551413024491273435 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 8
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-94e72dbe9e8cd7c4b203ad96ad5b3ff8", "m_PathID": 0 },
+	"m_Dependencies": [
+		"shader_list.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-94e72dbe9e8cd7c4b203ad96ad5b3ff8", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "eff_mesh_j_xiangnaihui_01.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-94e72dbe9e8cd7c4b203ad96ad5b3ff8", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-94e72dbe9e8cd7c4b203ad96ad5b3ff8", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-94e72dbe9e8cd7c4b203ad96ad5b3ff8", "m_PathID": 8931043560671302228 },
+		{ "m_Collection": "cab-94e72dbe9e8cd7c4b203ad96ad5b3ff8", "m_PathID": -7551413024491273435 },
+		{ "m_Collection": "cab-94e72dbe9e8cd7c4b203ad96ad5b3ff8", "m_PathID": -6674042764836830610 },
+		{ "m_Collection": "cab-94e72dbe9e8cd7c4b203ad96ad5b3ff8", "m_PathID": 1313291050292429908 },
+		{ "m_Collection": "cab-94e72dbe9e8cd7c4b203ad96ad5b3ff8", "m_PathID": 2136019946367525013 },
+		{ "m_Collection": "cab-94e72dbe9e8cd7c4b203ad96ad5b3ff8", "m_PathID": 4126831983772374468 },
+		{ "m_Collection": "cab-94e72dbe9e8cd7c4b203ad96ad5b3ff8", "m_PathID": 6975505282133334523 },
+		{ "m_Collection": "cab-94e72dbe9e8cd7c4b203ad96ad5b3ff8", "m_PathID": 7694263968535854919 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

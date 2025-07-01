@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "arena_atlas0.9",
+	"m_Container": {
+		"assets/ui/english/arena_atlas0.png": {
+			"m_Asset": { "m_Collection": "cab-91df326cf138e4da2d48ad4d62107abc", "m_PathID": 1156694090125307845 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-91df326cf138e4da2d48ad4d62107abc", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-91df326cf138e4da2d48ad4d62107abc", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "arena_atlas0.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-91df326cf138e4da2d48ad4d62107abc", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-91df326cf138e4da2d48ad4d62107abc", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-91df326cf138e4da2d48ad4d62107abc", "m_PathID": 1156694090125307845 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

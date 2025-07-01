@@ -1,0 +1,26 @@
+{
+	"Name": "role_bantiangou_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6420955695986919719 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2223570003171411448 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3165825617062725418 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1073256248808478574 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3484183388555516611 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4835011070516045527 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4415407377015083381 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6721295028139099605 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6509849329419402936 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2504986587985241887 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8731655999762403589 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2154953004512426046 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3662016044519196699 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6430351659328254470 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6531631345444256439 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1289611684350108484 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2253901099374350297 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -552902351665612668 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3746726268457817629 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 542022465946277733 }
+	]
+}

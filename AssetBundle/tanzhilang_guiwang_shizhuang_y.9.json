@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "tanzhilang_guiwang_shizhuang_y.9",
+	"m_Container": {
+		"assets/artresources/artbase/model/role/role_tanzhilang_guiwang_shizhuang/materials/tanzhilang_guiwang_shizhuang_y.png": {
+			"m_Asset": { "m_Collection": "cab-a883d0c36d35955ca703f762de8e3639", "m_PathID": -8299996592646859725 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-a883d0c36d35955ca703f762de8e3639", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-a883d0c36d35955ca703f762de8e3639", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "tanzhilang_guiwang_shizhuang_y.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-a883d0c36d35955ca703f762de8e3639", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-a883d0c36d35955ca703f762de8e3639", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-a883d0c36d35955ca703f762de8e3639", "m_PathID": -8299996592646859725 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

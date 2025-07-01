@@ -1,0 +1,22 @@
+{
+	"Name": "role_ganlusimili_junzhuang_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -7689336541779927370 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8907413273081844296 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5370530359045735686 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6527430231903750594 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1895733919149078050 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 878875504470903768 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3827283512096788382 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -8341463724178783079 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6758611925110002106 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7766376359281355876 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -8356052759135490671 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4966699765447094290 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6598317907319526445 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3439466788812161977 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 213497207891291783 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2382837767692489749 }
+	]
+}

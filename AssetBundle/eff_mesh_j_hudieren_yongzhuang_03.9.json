@@ -1,0 +1,43 @@
+{
+	"m_AssetBundleName": "eff_mesh_j_hudieren_yongzhuang_03.9",
+	"m_Container": {
+		"assets/artresources/artbase/effect/effect_mesh/eff_mesh_j_hudieren_yongzhuang_03.fbx": {
+			"m_Asset": { "m_Collection": "cab-49ab4e22d7100bbc847297b33d87f886", "m_PathID": 671795838084244264 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 8
+		},
+		"assets/artresources/artbase/effect/effect_mesh/eff_mesh_j_hudieren_yongzhuang_03.fbx": {
+			"m_Asset": { "m_Collection": "cab-49ab4e22d7100bbc847297b33d87f886", "m_PathID": -7773068297358202906 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 8
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-49ab4e22d7100bbc847297b33d87f886", "m_PathID": 0 },
+	"m_Dependencies": [
+		"shader_list.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-49ab4e22d7100bbc847297b33d87f886", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "eff_mesh_j_hudieren_yongzhuang_03.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-49ab4e22d7100bbc847297b33d87f886", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-49ab4e22d7100bbc847297b33d87f886", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-49ab4e22d7100bbc847297b33d87f886", "m_PathID": 8931043560671302228 },
+		{ "m_Collection": "cab-49ab4e22d7100bbc847297b33d87f886", "m_PathID": -8825519329773758614 },
+		{ "m_Collection": "cab-49ab4e22d7100bbc847297b33d87f886", "m_PathID": -7773068297358202906 },
+		{ "m_Collection": "cab-49ab4e22d7100bbc847297b33d87f886", "m_PathID": -5931398290710130225 },
+		{ "m_Collection": "cab-49ab4e22d7100bbc847297b33d87f886", "m_PathID": 671795838084244264 },
+		{ "m_Collection": "cab-49ab4e22d7100bbc847297b33d87f886", "m_PathID": 5151279037476892411 },
+		{ "m_Collection": "cab-49ab4e22d7100bbc847297b33d87f886", "m_PathID": 6975505282133334523 },
+		{ "m_Collection": "cab-49ab4e22d7100bbc847297b33d87f886", "m_PathID": 8869311088446810475 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

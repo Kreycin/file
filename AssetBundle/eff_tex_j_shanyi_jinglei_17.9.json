@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "eff_tex_j_shanyi_jinglei_17.9",
+	"m_Container": {
+		"assets/artresources/artbase/effect/effect_tex/eff_tex_j_shanyi_jinglei_17.png": {
+			"m_Asset": { "m_Collection": "cab-997d0c9909dab70a479607d3b7eb03db", "m_PathID": 4708572306126034981 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-997d0c9909dab70a479607d3b7eb03db", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-997d0c9909dab70a479607d3b7eb03db", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "eff_tex_j_shanyi_jinglei_17.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-997d0c9909dab70a479607d3b7eb03db", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-997d0c9909dab70a479607d3b7eb03db", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-997d0c9909dab70a479607d3b7eb03db", "m_PathID": 4708572306126034981 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

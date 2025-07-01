@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "guiwucan_y.9",
+	"m_Container": {
+		"assets/artresources/artbase/model/role/role_guiwucan/materials/guiwucan_y.tga": {
+			"m_Asset": { "m_Collection": "cab-b7f602ecd38e7ebbe0f887fd97777213", "m_PathID": -7297765112868432113 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-b7f602ecd38e7ebbe0f887fd97777213", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-b7f602ecd38e7ebbe0f887fd97777213", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "guiwucan_y.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-b7f602ecd38e7ebbe0f887fd97777213", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-b7f602ecd38e7ebbe0f887fd97777213", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-b7f602ecd38e7ebbe0f887fd97777213", "m_PathID": -7297765112868432113 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

@@ -1,0 +1,22 @@
+{
+	"Name": "role_fugangyiyong_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 274225820081247024 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7363993225943998439 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -7226129848781008488 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1035069861205858226 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8606134606907654067 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8062310416213695648 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2528853464248923950 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3938293916809185469 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2645455856619224109 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7324822496115391432 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1908288724260772210 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1114197206425368289 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4637094451536329245 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8035554319344773761 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5389916741203661365 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5667643106854795354 }
+	]
+}

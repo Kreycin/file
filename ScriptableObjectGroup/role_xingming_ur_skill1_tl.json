@@ -1,0 +1,21 @@
+{
+	"Name": "role_xingming_ur_skill1_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7897237177700144109 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1312338543403195566 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -427430606463772224 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1513382278968206430 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6365342368659467299 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2437414998823163609 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6711816352710318613 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -7008311314775870262 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 477388977051654831 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2069052885194973601 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 912085067739975606 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4754872938791840121 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 794879295049390988 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2644773957772729006 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3906181133346744051 }
+	]
+}

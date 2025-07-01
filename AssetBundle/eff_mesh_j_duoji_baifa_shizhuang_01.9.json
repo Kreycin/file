@@ -1,0 +1,42 @@
+{
+	"m_AssetBundleName": "eff_mesh_j_duoji_baifa_shizhuang_01.9",
+	"m_Container": {
+		"assets/artresources/artbase/effect/effect_mesh/eff_mesh_j_duoji_baifa_shizhuang_01.fbx": {
+			"m_Asset": { "m_Collection": "cab-7705971ac5341ff45ab98891bb41a1bd", "m_PathID": -5121051398249909448 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 7
+		},
+		"assets/artresources/artbase/effect/effect_mesh/eff_mesh_j_duoji_baifa_shizhuang_01.fbx": {
+			"m_Asset": { "m_Collection": "cab-7705971ac5341ff45ab98891bb41a1bd", "m_PathID": -7446151952005535001 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 7
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-7705971ac5341ff45ab98891bb41a1bd", "m_PathID": 0 },
+	"m_Dependencies": [
+		"shader_list.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-7705971ac5341ff45ab98891bb41a1bd", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "eff_mesh_j_duoji_baifa_shizhuang_01.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-7705971ac5341ff45ab98891bb41a1bd", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-7705971ac5341ff45ab98891bb41a1bd", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-7705971ac5341ff45ab98891bb41a1bd", "m_PathID": 4947440375575313456 },
+		{ "m_Collection": "cab-7705971ac5341ff45ab98891bb41a1bd", "m_PathID": -8502035290267942066 },
+		{ "m_Collection": "cab-7705971ac5341ff45ab98891bb41a1bd", "m_PathID": -7446151952005535001 },
+		{ "m_Collection": "cab-7705971ac5341ff45ab98891bb41a1bd", "m_PathID": -5186389196716872614 },
+		{ "m_Collection": "cab-7705971ac5341ff45ab98891bb41a1bd", "m_PathID": -5121051398249909448 },
+		{ "m_Collection": "cab-7705971ac5341ff45ab98891bb41a1bd", "m_PathID": -4426916408514422278 },
+		{ "m_Collection": "cab-7705971ac5341ff45ab98891bb41a1bd", "m_PathID": 2708308698544908646 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

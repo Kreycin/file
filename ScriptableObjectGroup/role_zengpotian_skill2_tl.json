@@ -1,0 +1,24 @@
+{
+	"Name": "role_zengpotian_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6427580401248403918 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -632901527519740175 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1026820118570397093 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 171293439121376569 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -9098472100580097221 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5317444297131552107 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5711104019142371674 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4343263975187372088 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2428079797541917081 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5344666945851970364 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6569423650159887346 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2724355200123054938 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2790264885696277059 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3327127076847435088 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -7225290776181210972 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5529699604413139471 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3882649866772193155 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3113811856761556724 }
+	]
+}

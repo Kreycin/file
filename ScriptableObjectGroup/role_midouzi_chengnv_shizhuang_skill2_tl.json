@@ -1,0 +1,23 @@
+{
+	"Name": "role_midouzi_chengnv_shizhuang_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1142428404879346323 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5527295514548709579 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5640409095087922813 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3914873710059843204 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2923924169821433506 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5026247315926679784 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3479370652490773915 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2256853306345904584 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -715621612386963907 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2584701596455597064 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4734223107502394447 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3084106932676812032 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4959094594110344217 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3341677944213439870 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2814297491996367827 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1011839759000131188 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4770266040548745872 }
+	]
+}

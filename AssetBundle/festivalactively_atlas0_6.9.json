@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "festivalactively_atlas0_6.9",
+	"m_Container": {
+		"assets/ui/english/festivalactively_atlas0_6.png": {
+			"m_Asset": { "m_Collection": "cab-a2f6097232ede6de718667f1706cd1f4", "m_PathID": 4042221240755155933 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-a2f6097232ede6de718667f1706cd1f4", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-a2f6097232ede6de718667f1706cd1f4", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "festivalactively_atlas0_6.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-a2f6097232ede6de718667f1706cd1f4", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-a2f6097232ede6de718667f1706cd1f4", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-a2f6097232ede6de718667f1706cd1f4", "m_PathID": 4042221240755155933 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

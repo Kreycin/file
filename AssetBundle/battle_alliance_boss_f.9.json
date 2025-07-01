@@ -1,0 +1,38 @@
+{
+	"m_AssetBundleName": "battle_alliance_boss_f.9",
+	"m_Container": {
+		"assets/artresources/artbase/scene/mesh/battle_alliance_boss_f.fbx": {
+			"m_Asset": { "m_Collection": "cab-dda0e083f50cf37d19b1554ccbae3cc4", "m_PathID": 8198277782231986046 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 5
+		},
+		"assets/artresources/artbase/scene/mesh/battle_alliance_boss_f.fbx": {
+			"m_Asset": { "m_Collection": "cab-dda0e083f50cf37d19b1554ccbae3cc4", "m_PathID": 8951002353606477614 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 5
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-dda0e083f50cf37d19b1554ccbae3cc4", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-dda0e083f50cf37d19b1554ccbae3cc4", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "battle_alliance_boss_f.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-dda0e083f50cf37d19b1554ccbae3cc4", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-dda0e083f50cf37d19b1554ccbae3cc4", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-dda0e083f50cf37d19b1554ccbae3cc4", "m_PathID": -7167130564902669085 },
+		{ "m_Collection": "cab-dda0e083f50cf37d19b1554ccbae3cc4", "m_PathID": 3618004852690447702 },
+		{ "m_Collection": "cab-dda0e083f50cf37d19b1554ccbae3cc4", "m_PathID": 7454643500165602735 },
+		{ "m_Collection": "cab-dda0e083f50cf37d19b1554ccbae3cc4", "m_PathID": 8198277782231986046 },
+		{ "m_Collection": "cab-dda0e083f50cf37d19b1554ccbae3cc4", "m_PathID": 8951002353606477614 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

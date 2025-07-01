@@ -1,0 +1,42 @@
+{
+	"m_AssetBundleName": "eff_j_mesh_linlong_qingnian_jingtou_01.9",
+	"m_Container": {
+		"assets/artresources/artbase/effect/effect_mesh/eff_j_mesh_linlong_qingnian_jingtou_01.fbx": {
+			"m_Asset": { "m_Collection": "cab-8a7e0b8e101c44f3c634112368ec26a9", "m_PathID": -4046031593198346253 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 7
+		},
+		"assets/artresources/artbase/effect/effect_mesh/eff_j_mesh_linlong_qingnian_jingtou_01.fbx": {
+			"m_Asset": { "m_Collection": "cab-8a7e0b8e101c44f3c634112368ec26a9", "m_PathID": -117527652036884076 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 7
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-8a7e0b8e101c44f3c634112368ec26a9", "m_PathID": 0 },
+	"m_Dependencies": [
+		"shader_list.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-8a7e0b8e101c44f3c634112368ec26a9", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "eff_j_mesh_linlong_qingnian_jingtou_01.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-8a7e0b8e101c44f3c634112368ec26a9", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-8a7e0b8e101c44f3c634112368ec26a9", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-8a7e0b8e101c44f3c634112368ec26a9", "m_PathID": 4947440375575313456 },
+		{ "m_Collection": "cab-8a7e0b8e101c44f3c634112368ec26a9", "m_PathID": -5942839639998310388 },
+		{ "m_Collection": "cab-8a7e0b8e101c44f3c634112368ec26a9", "m_PathID": -4426916408514422278 },
+		{ "m_Collection": "cab-8a7e0b8e101c44f3c634112368ec26a9", "m_PathID": -4046031593198346253 },
+		{ "m_Collection": "cab-8a7e0b8e101c44f3c634112368ec26a9", "m_PathID": -117527652036884076 },
+		{ "m_Collection": "cab-8a7e0b8e101c44f3c634112368ec26a9", "m_PathID": 2454847059642062156 },
+		{ "m_Collection": "cab-8a7e0b8e101c44f3c634112368ec26a9", "m_PathID": 2759202789190097333 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

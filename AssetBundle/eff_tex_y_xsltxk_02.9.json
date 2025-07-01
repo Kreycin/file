@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "eff_tex_y_xsltxk_02.9",
+	"m_Container": {
+		"assets/artresources/artbase/effect/effect_tex/eff_tex_y_xsltxk_02.png": {
+			"m_Asset": { "m_Collection": "cab-8de52f01518a407f6b1a96e4b36ca6a7", "m_PathID": -184623064738222144 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-8de52f01518a407f6b1a96e4b36ca6a7", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-8de52f01518a407f6b1a96e4b36ca6a7", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "eff_tex_y_xsltxk_02.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-8de52f01518a407f6b1a96e4b36ca6a7", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-8de52f01518a407f6b1a96e4b36ca6a7", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-8de52f01518a407f6b1a96e4b36ca6a7", "m_PathID": -184623064738222144 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

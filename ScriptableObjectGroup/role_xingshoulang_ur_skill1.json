@@ -1,0 +1,27 @@
+{
+	"Name": "role_xingshoulang_ur_skill1",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6290533152029430131 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3315751067487289823 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1486421137983080998 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2156151033698777738 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2539035659816433378 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 9185285224032967324 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4268110419959778945 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6848359321802441397 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6174131079657159966 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1468786409898346450 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4387911990045467796 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4428643794792374323 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6350380765138696117 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -815789734161380842 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4174538028179375393 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3662781988054861849 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1372489454303579510 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8488764819732478209 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5793117809730563638 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4882112953272177320 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -8912792539486748022 }
+	]
+}

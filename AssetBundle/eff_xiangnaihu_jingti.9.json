@@ -1,0 +1,52 @@
+{
+	"m_AssetBundleName": "eff_xiangnaihu_jingti.9",
+	"m_Container": {
+		"assets/artresources/output/effect/buff/eff_xiangnaihu_jingti.prefab": {
+			"m_Asset": { "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": -2398169230441643565 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 19
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": 0 },
+	"m_Dependencies": [
+		"eff_tex_j_gls_jz_6.9",
+		"eff_tex_mask_073.9",
+		"mod_yc_gm_smoke4.9",
+		"shader_list.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "eff_xiangnaihu_jingti.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": -5006074283635776971 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": 6917066236692526138 },
+		{ "m_FileID": 3, "m_PathID": 6995104282574837727 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": -7414191146355441641 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": -6248082626605978182 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": -5818932417081661849 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": -3340135616374628217 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": -2443070534876343516 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": -2398169230441643565 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": -2389528014963464251 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": 838678086096926782 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": 2073480091133177013 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": 2335933824068704439 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": 2370109524403212019 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": 3438464698491909698 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": 6038375317485280899 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": 6333393649124006482 },
+		{ "m_Collection": "cab-806db7d4d3441b2764a861227b02177b", "m_PathID": 6414916763565716092 },
+		{ "m_FileID": 4, "m_PathID": 2046109960311313544 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

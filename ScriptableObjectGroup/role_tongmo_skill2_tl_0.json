@@ -1,0 +1,18 @@
+{
+	"Name": "role_tongmo_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4556494361164307306 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2101717840512740930 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2459054465943488897 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1972645149608275076 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 94412653875734566 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8940516275494555405 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5819496250792667086 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -7668761049951663523 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1153315598277240972 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3228783669215329022 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3992881562938793078 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5623448347565037525 }
+	]
+}

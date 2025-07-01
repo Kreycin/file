@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "lotteryheroreplace_fui.9",
+	"m_Container": {
+		"assets/ui/english/lotteryheroreplace_fui.bytes": {
+			"m_Asset": { "m_Collection": "cab-a2a872f72d09e601bae3a800252545e1", "m_PathID": -4511409888283415994 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-a2a872f72d09e601bae3a800252545e1", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-a2a872f72d09e601bae3a800252545e1", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "lotteryheroreplace_fui.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-a2a872f72d09e601bae3a800252545e1", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-a2a872f72d09e601bae3a800252545e1", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-a2a872f72d09e601bae3a800252545e1", "m_PathID": -4511409888283415994 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

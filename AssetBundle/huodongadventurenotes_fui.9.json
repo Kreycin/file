@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "huodongadventurenotes_fui.9",
+	"m_Container": {
+		"assets/ui/english/huodongadventurenotes_fui.bytes": {
+			"m_Asset": { "m_Collection": "cab-71df7737b5535fa0bb77b2d0f081ddbf", "m_PathID": 5977979840342947522 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-71df7737b5535fa0bb77b2d0f081ddbf", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-71df7737b5535fa0bb77b2d0f081ddbf", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "huodongadventurenotes_fui.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-71df7737b5535fa0bb77b2d0f081ddbf", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-71df7737b5535fa0bb77b2d0f081ddbf", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-71df7737b5535fa0bb77b2d0f081ddbf", "m_PathID": 5977979840342947522 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

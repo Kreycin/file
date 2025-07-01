@@ -1,0 +1,43 @@
+{
+	"m_AssetBundleName": "eff_mesh_j_hudieren_yongzhuang_08.9",
+	"m_Container": {
+		"assets/artresources/artbase/effect/effect_mesh/eff_mesh_j_hudieren_yongzhuang_08.fbx": {
+			"m_Asset": { "m_Collection": "cab-cce3e91af7784a0e6ec59234aca1c0aa", "m_PathID": -2739350374366696677 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 8
+		},
+		"assets/artresources/artbase/effect/effect_mesh/eff_mesh_j_hudieren_yongzhuang_08.fbx": {
+			"m_Asset": { "m_Collection": "cab-cce3e91af7784a0e6ec59234aca1c0aa", "m_PathID": -662121615611035077 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 8
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-cce3e91af7784a0e6ec59234aca1c0aa", "m_PathID": 0 },
+	"m_Dependencies": [
+		"shader_list.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-cce3e91af7784a0e6ec59234aca1c0aa", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "eff_mesh_j_hudieren_yongzhuang_08.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-cce3e91af7784a0e6ec59234aca1c0aa", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-cce3e91af7784a0e6ec59234aca1c0aa", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-cce3e91af7784a0e6ec59234aca1c0aa", "m_PathID": 8931043560671302228 },
+		{ "m_Collection": "cab-cce3e91af7784a0e6ec59234aca1c0aa", "m_PathID": -8825519329773758614 },
+		{ "m_Collection": "cab-cce3e91af7784a0e6ec59234aca1c0aa", "m_PathID": -4471470252027044127 },
+		{ "m_Collection": "cab-cce3e91af7784a0e6ec59234aca1c0aa", "m_PathID": -2739350374366696677 },
+		{ "m_Collection": "cab-cce3e91af7784a0e6ec59234aca1c0aa", "m_PathID": -662121615611035077 },
+		{ "m_Collection": "cab-cce3e91af7784a0e6ec59234aca1c0aa", "m_PathID": -604359443383130417 },
+		{ "m_Collection": "cab-cce3e91af7784a0e6ec59234aca1c0aa", "m_PathID": -21830190198927547 },
+		{ "m_Collection": "cab-cce3e91af7784a0e6ec59234aca1c0aa", "m_PathID": 6975505282133334523 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

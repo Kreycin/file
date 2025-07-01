@@ -1,0 +1,43 @@
+{
+	"m_AssetBundleName": "eff_mesh_cylinder_36.9",
+	"m_Container": {
+		"assets/artresources/artbase/effect/effect_mesh/eff_mesh_cylinder_36.fbx": {
+			"m_Asset": { "m_Collection": "cab-76ad128f6f74ebf225ae33e1195f7036", "m_PathID": -3018686347094017647 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 8
+		},
+		"assets/artresources/artbase/effect/effect_mesh/eff_mesh_cylinder_36.fbx": {
+			"m_Asset": { "m_Collection": "cab-76ad128f6f74ebf225ae33e1195f7036", "m_PathID": -6027386924112886796 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 8
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-76ad128f6f74ebf225ae33e1195f7036", "m_PathID": 0 },
+	"m_Dependencies": [
+		"shader_list.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-76ad128f6f74ebf225ae33e1195f7036", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "eff_mesh_cylinder_36.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-76ad128f6f74ebf225ae33e1195f7036", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-76ad128f6f74ebf225ae33e1195f7036", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-76ad128f6f74ebf225ae33e1195f7036", "m_PathID": 8931043560671302228 },
+		{ "m_Collection": "cab-76ad128f6f74ebf225ae33e1195f7036", "m_PathID": -6027386924112886796 },
+		{ "m_Collection": "cab-76ad128f6f74ebf225ae33e1195f7036", "m_PathID": -3018686347094017647 },
+		{ "m_Collection": "cab-76ad128f6f74ebf225ae33e1195f7036", "m_PathID": -699422723460242184 },
+		{ "m_Collection": "cab-76ad128f6f74ebf225ae33e1195f7036", "m_PathID": 5022497300260128496 },
+		{ "m_Collection": "cab-76ad128f6f74ebf225ae33e1195f7036", "m_PathID": 5258961520887638903 },
+		{ "m_Collection": "cab-76ad128f6f74ebf225ae33e1195f7036", "m_PathID": 6975505282133334523 },
+		{ "m_Collection": "cab-76ad128f6f74ebf225ae33e1195f7036", "m_PathID": 8127815416070212039 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

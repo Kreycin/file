@@ -1,0 +1,43 @@
+{
+	"m_AssetBundleName": "mod_yc_kelin_smoke7.9",
+	"m_Container": {
+		"assets/artresources/artbase/effect/effect_mesh/mod_yc_kelin_smoke7.fbx": {
+			"m_Asset": { "m_Collection": "cab-09b2afcd9da37ea4457e4df851f039a2", "m_PathID": 6751499907569288976 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 8
+		},
+		"assets/artresources/artbase/effect/effect_mesh/mod_yc_kelin_smoke7.fbx": {
+			"m_Asset": { "m_Collection": "cab-09b2afcd9da37ea4457e4df851f039a2", "m_PathID": 6155511610557713843 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 8
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-09b2afcd9da37ea4457e4df851f039a2", "m_PathID": 0 },
+	"m_Dependencies": [
+		"shader_list.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-09b2afcd9da37ea4457e4df851f039a2", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "mod_yc_kelin_smoke7.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-09b2afcd9da37ea4457e4df851f039a2", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-09b2afcd9da37ea4457e4df851f039a2", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-09b2afcd9da37ea4457e4df851f039a2", "m_PathID": 498952183720579830 },
+		{ "m_Collection": "cab-09b2afcd9da37ea4457e4df851f039a2", "m_PathID": 2642298322787594250 },
+		{ "m_Collection": "cab-09b2afcd9da37ea4457e4df851f039a2", "m_PathID": 2784255653866005586 },
+		{ "m_Collection": "cab-09b2afcd9da37ea4457e4df851f039a2", "m_PathID": 6155511610557713843 },
+		{ "m_Collection": "cab-09b2afcd9da37ea4457e4df851f039a2", "m_PathID": 6751499907569288976 },
+		{ "m_Collection": "cab-09b2afcd9da37ea4457e4df851f039a2", "m_PathID": 6795502573484661705 },
+		{ "m_Collection": "cab-09b2afcd9da37ea4457e4df851f039a2", "m_PathID": 6975505282133334523 },
+		{ "m_Collection": "cab-09b2afcd9da37ea4457e4df851f039a2", "m_PathID": 8931043560671302228 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

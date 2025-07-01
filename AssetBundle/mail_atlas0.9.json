@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "mail_atlas0.9",
+	"m_Container": {
+		"assets/ui/english/mail_atlas0.png": {
+			"m_Asset": { "m_Collection": "cab-24cd64ae62ac05a7524d99931edeaf21", "m_PathID": 8187044210180853729 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-24cd64ae62ac05a7524d99931edeaf21", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-24cd64ae62ac05a7524d99931edeaf21", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "mail_atlas0.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-24cd64ae62ac05a7524d99931edeaf21", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-24cd64ae62ac05a7524d99931edeaf21", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-24cd64ae62ac05a7524d99931edeaf21", "m_PathID": 8187044210180853729 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

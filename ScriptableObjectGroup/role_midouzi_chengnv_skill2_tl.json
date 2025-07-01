@@ -1,0 +1,24 @@
+{
+	"Name": "role_midouzi_chengnv_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -7473760588569617759 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2495418087467573753 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3291388886442981362 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3124514112984569145 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3011036328433076464 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -8822245937907157394 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4820175600930641324 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5675495062564832581 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7024289568731155987 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2843156533848900922 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2859928992292943298 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8141711722435817255 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -213947310302391860 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5487912731072389615 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8560999836414042798 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4621421883046223911 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1053565761275288547 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1732452931441619393 }
+	]
+}

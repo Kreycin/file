@@ -1,0 +1,65 @@
+{
+	"m_AssetBundleName": "eff_j_shanyi_jinglei_buff_dianhe.9",
+	"m_Container": {
+		"assets/artresources/output/effect/buff/eff_j_shanyi_jinglei_buff_dianhe.prefab": {
+			"m_Asset": { "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -4314801943226245733 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 31
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 0 },
+	"m_Dependencies": [
+		"eff_mesh_j_jifutailang_xueren_xue_01.9",
+		"eff_tex_glow009.9",
+		"eff_tex_j_shanyi_jinglei_10.9",
+		"eff_w_shanyi_buff_tex_01.9",
+		"shader_list.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "eff_j_shanyi_jinglei_buff_dianhe.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -7039431568996947641 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 6917066236692526138 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -8575027373649685291 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -8545473737255467784 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -8318527882913203595 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -8062661824660100689 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -7828308445799640371 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -7576974508071872820 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -6554613763161379540 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -6112044925923814629 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -5747158117221292186 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -4314801943226245733 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -3538946338404329430 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -2753743982737901432 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -1941178297216135403 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -1583864296587986474 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": -542299436172863844 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 2568171541192933632 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 4452672532711764331 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 4631021438987337165 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 4879139274831818728 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 6038375317485280899 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 6484469454938277504 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 6583466598644253145 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 7727413992379533477 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 8668999847633214985 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 8859328165112031864 },
+		{ "m_FileID": 4, "m_PathID": -8215212556382700847 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 3832388712915165328 },
+		{ "m_Collection": "cab-23281abe02a10f0fa4350a6ab05fd8bf", "m_PathID": 3987500432132283485 },
+		{ "m_FileID": 3, "m_PathID": -9144216804003115039 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

@@ -1,0 +1,18 @@
+{
+	"Name": "role_shanyi_hunshui_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7287721044686471888 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5127953196184356951 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1338500679323922817 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1797181180637803318 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 103562510126884549 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 604299642637547443 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4697049171700851881 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6027794970036169594 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -430679172683005403 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6489721638026372019 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6899595931833266492 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3580189533740948270 }
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "chatsystem_atlas0.9",
+	"m_Container": {
+		"assets/ui/english/chatsystem_atlas0.png": {
+			"m_Asset": { "m_Collection": "cab-abf97c17812b366e046f63b7a34bfb2e", "m_PathID": 9032517332394510994 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-abf97c17812b366e046f63b7a34bfb2e", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-abf97c17812b366e046f63b7a34bfb2e", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "chatsystem_atlas0.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-abf97c17812b366e046f63b7a34bfb2e", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-abf97c17812b366e046f63b7a34bfb2e", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-abf97c17812b366e046f63b7a34bfb2e", "m_PathID": 9032517332394510994 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

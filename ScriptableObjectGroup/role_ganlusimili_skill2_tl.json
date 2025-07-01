@@ -1,0 +1,21 @@
+{
+	"Name": "role_ganlusimili_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4485751076905202710 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8574337993015765935 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1277378995718152914 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8213458877531550126 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3471392321082309280 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4348968791202794411 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4665716822060768538 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3603052912036700430 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4832976460402015593 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5333266532141447735 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 118404108987019532 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6595055268161742316 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7331064120581000499 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7272646260330608703 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1231053352174816419 }
+	]
+}

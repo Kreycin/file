@@ -1,0 +1,32 @@
+{
+	"Name": "role_xiangnaihui_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4680220552034543727 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2761809460792985058 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8359770979904457301 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -96641168916847279 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3044308154787109896 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 952884228312689821 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1996886050816505516 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2681762007146185191 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8308780262050503826 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3313553834076676071 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7027223871665913306 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 225357795725367050 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7823581948194510717 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2897229253941299742 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -175331575795835648 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8952536529805889989 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3003868987470706543 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1078786654960727008 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5951636202822667528 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 282536226637539327 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4006314269199003477 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7743331631454090941 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4012191862583820283 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -7230605374540859915 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1500057049260348355 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5695079481115908188 }
+	]
+}

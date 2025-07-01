@@ -1,0 +1,18 @@
+{
+	"Name": "role_hudieren_qipao02_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5188179124628814327 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2974964513578266335 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6601688998899322991 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6061026518576660728 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5549379727164903750 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4294767434631353564 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2303777986143428363 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6854144280680484688 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4423069587448108508 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1401117601791844376 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 879867809602833496 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 309606024293227064 }
+	]
+}

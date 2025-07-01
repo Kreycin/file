@@ -1,0 +1,16 @@
+{
+	"Name": "role_ganlusimili_banwen_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1347407018394265105 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3970907822053195363 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3834760774968453106 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6897317041329514382 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1560720850732602364 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6565822675016019377 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6723316071969529559 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7742768350956068368 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1268363527057281401 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6101015016271653535 }
+	]
+}

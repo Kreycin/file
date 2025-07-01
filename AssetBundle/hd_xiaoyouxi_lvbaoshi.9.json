@@ -1,0 +1,42 @@
+{
+	"m_AssetBundleName": "hd_xiaoyouxi_lvbaoshi.9",
+	"m_Container": {
+		"assets/artresources/output/modelinside/hd_xiaoyouxi_lvbaoshi.prefab": {
+			"m_Asset": { "m_Collection": "cab-220f321f74686fa53fe248b09e897eda", "m_PathID": -6227945477148320792 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 10
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-220f321f74686fa53fe248b09e897eda", "m_PathID": 0 },
+	"m_Dependencies": [
+		"shader_list.9",
+		"xiaoyouxi_baoshi_f.9",
+		"xiaoyouxi_lvbaoshi_t.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-220f321f74686fa53fe248b09e897eda", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "hd_xiaoyouxi_lvbaoshi.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-220f321f74686fa53fe248b09e897eda", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-220f321f74686fa53fe248b09e897eda", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-220f321f74686fa53fe248b09e897eda", "m_PathID": -3525167717941167454 },
+		{ "m_Collection": "cab-220f321f74686fa53fe248b09e897eda", "m_PathID": -6753342085100854402 },
+		{ "m_Collection": "cab-220f321f74686fa53fe248b09e897eda", "m_PathID": -6227945477148320792 },
+		{ "m_Collection": "cab-220f321f74686fa53fe248b09e897eda", "m_PathID": -6102053128708305600 },
+		{ "m_Collection": "cab-220f321f74686fa53fe248b09e897eda", "m_PathID": -5183026367040418895 },
+		{ "m_Collection": "cab-220f321f74686fa53fe248b09e897eda", "m_PathID": -2326595629987562824 },
+		{ "m_Collection": "cab-220f321f74686fa53fe248b09e897eda", "m_PathID": 6745011119864082807 },
+		{ "m_Collection": "cab-220f321f74686fa53fe248b09e897eda", "m_PathID": 7608782768183241557 },
+		{ "m_Collection": "cab-220f321f74686fa53fe248b09e897eda", "m_PathID": -5885908345083381965 },
+		{ "m_Collection": "cab-220f321f74686fa53fe248b09e897eda", "m_PathID": 2870214052470164098 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

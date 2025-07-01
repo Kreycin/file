@@ -1,0 +1,22 @@
+{
+	"Name": "role_kuaiyue_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6499950362130844048 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2796107924389505552 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6258637073255664582 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8493822338210891082 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -8823419009491995699 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1115805883269391938 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5239410990091105511 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2447851468620345230 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -956856363091241155 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1245807647502166437 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -770999733692555237 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2493530137751418728 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5952564386710707195 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4866995243991523148 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3093599180805490541 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6460129366380253523 }
+	]
+}

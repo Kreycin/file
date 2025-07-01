@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "welfarehall_atlas0_1.9",
+	"m_Container": {
+		"assets/ui/english/welfarehall_atlas0_1.png": {
+			"m_Asset": { "m_Collection": "cab-4153a395fd41aeb0b00c387d9a0e57c5", "m_PathID": -4746703064570910532 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-4153a395fd41aeb0b00c387d9a0e57c5", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-4153a395fd41aeb0b00c387d9a0e57c5", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "welfarehall_atlas0_1.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-4153a395fd41aeb0b00c387d9a0e57c5", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-4153a395fd41aeb0b00c387d9a0e57c5", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-4153a395fd41aeb0b00c387d9a0e57c5", "m_PathID": -4746703064570910532 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "superfund_atlas0.9",
+	"m_Container": {
+		"assets/ui/english/superfund_atlas0.png": {
+			"m_Asset": { "m_Collection": "cab-10f154543f435780949865fda6a2b564", "m_PathID": -3099697468952689883 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-10f154543f435780949865fda6a2b564", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-10f154543f435780949865fda6a2b564", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "superfund_atlas0.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-10f154543f435780949865fda6a2b564", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-10f154543f435780949865fda6a2b564", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-10f154543f435780949865fda6a2b564", "m_PathID": -3099697468952689883 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

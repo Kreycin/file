@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "lh2_chongzhuren_1.9",
+	"m_Container": {
+		"assets/artresources/output/ui/uisingle/lihui2_force/lh2_chongzhuren_1.png": {
+			"m_Asset": { "m_Collection": "cab-92fd92977f9c5469d4cc197d5a546a68", "m_PathID": -1025419642368435820 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-92fd92977f9c5469d4cc197d5a546a68", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-92fd92977f9c5469d4cc197d5a546a68", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "lh2_chongzhuren_1.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-92fd92977f9c5469d4cc197d5a546a68", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-92fd92977f9c5469d4cc197d5a546a68", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-92fd92977f9c5469d4cc197d5a546a68", "m_PathID": -1025419642368435820 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

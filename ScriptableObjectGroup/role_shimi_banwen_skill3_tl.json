@@ -1,0 +1,18 @@
+{
+	"Name": "role_shimi_banwen_skill3_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6038176635512899097 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4679448328396814097 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1583438917164185508 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -8737293316141076205 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3239600446469361031 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7194917764288974343 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3761466297835295253 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 455696003958741464 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6408289827672095308 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8013032776730689798 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -6057045697884300651 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8577375031981817880 }
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"Name": "role_hudieren_ur_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4603445404269542813 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1016794883971338932 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5504678740330544233 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -9189165354103483540 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3859513779987274817 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5586445457651859627 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4097779894192675364 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3431863911832641436 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2778561332773871948 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4326147418893276541 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4235265803394715390 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5260799754267900939 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1128869625288226382 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4266865066976226558 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1793174760543098540 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7368930943868248021 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -7008149318342256444 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2296020045122004847 }
+	]
+}

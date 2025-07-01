@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "ui_hd_cq_hddt_huiyilu_2.9",
+	"m_Container": {
+		"assets/artresources/artbase/scene/tex/ui_hd_cq_hddt_huiyilu_2.png": {
+			"m_Asset": { "m_Collection": "cab-d6ee6e165a0137f0a9dd7445b720c93a", "m_PathID": 4015503128177852864 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-d6ee6e165a0137f0a9dd7445b720c93a", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-d6ee6e165a0137f0a9dd7445b720c93a", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "ui_hd_cq_hddt_huiyilu_2.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-d6ee6e165a0137f0a9dd7445b720c93a", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-d6ee6e165a0137f0a9dd7445b720c93a", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-d6ee6e165a0137f0a9dd7445b720c93a", "m_PathID": 4015503128177852864 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

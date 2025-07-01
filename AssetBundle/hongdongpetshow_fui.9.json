@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "hongdongpetshow_fui.9",
+	"m_Container": {
+		"assets/ui/english/hongdongpetshow_fui.bytes": {
+			"m_Asset": { "m_Collection": "cab-8dee20be9053bf84e5490f9e6909aef1", "m_PathID": -1058292825146687027 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-8dee20be9053bf84e5490f9e6909aef1", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-8dee20be9053bf84e5490f9e6909aef1", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "hongdongpetshow_fui.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-8dee20be9053bf84e5490f9e6909aef1", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-8dee20be9053bf84e5490f9e6909aef1", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-8dee20be9053bf84e5490f9e6909aef1", "m_PathID": -1058292825146687027 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

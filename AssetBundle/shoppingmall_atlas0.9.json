@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "shoppingmall_atlas0.9",
+	"m_Container": {
+		"assets/ui/english/shoppingmall_atlas0.png": {
+			"m_Asset": { "m_Collection": "cab-2f23f4fa93d5f33e9ab30b0e327159c9", "m_PathID": -7487018810135272654 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-2f23f4fa93d5f33e9ab30b0e327159c9", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-2f23f4fa93d5f33e9ab30b0e327159c9", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "shoppingmall_atlas0.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-2f23f4fa93d5f33e9ab30b0e327159c9", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-2f23f4fa93d5f33e9ab30b0e327159c9", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-2f23f4fa93d5f33e9ab30b0e327159c9", "m_PathID": -7487018810135272654 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

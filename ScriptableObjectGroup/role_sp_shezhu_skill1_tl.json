@@ -1,0 +1,23 @@
+{
+	"Name": "role_sp_shezhu_skill1_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -7664261103301714398 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2253528912243264624 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -441300620730799752 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4869863841054758858 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4160158810542668327 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2807430713362864679 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6060437923523142400 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1936869745284540604 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5389508598208299628 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 204072597567826280 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -726607293727010772 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8642328105362490612 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5066153173461389577 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6974982665065527431 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -7804778628639558267 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8241455266601466963 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5290779964016734079 }
+	]
+}

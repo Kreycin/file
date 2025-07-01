@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "daoguang_zyc_031_a_clamp01.9",
+	"m_Container": {
+		"assets/artresources/artbase/effect/effect_tex/daoguang_zyc_031_a_clamp01.tga": {
+			"m_Asset": { "m_Collection": "cab-c6537250a3dfa73e4b2ce83f14df0e60", "m_PathID": 5322643635300620529 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-c6537250a3dfa73e4b2ce83f14df0e60", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-c6537250a3dfa73e4b2ce83f14df0e60", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "daoguang_zyc_031_a_clamp01.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-c6537250a3dfa73e4b2ce83f14df0e60", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-c6537250a3dfa73e4b2ce83f14df0e60", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-c6537250a3dfa73e4b2ce83f14df0e60", "m_PathID": 5322643635300620529 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

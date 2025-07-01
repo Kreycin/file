@@ -1,0 +1,617 @@
+{
+	"m_AssetBundleName": "ui_icon_item_box.9",
+	"m_Container": {
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_0box1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4617215140249684653 },
+			"m_PreloadIndex": 87,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_0box2.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4030733457371855267 },
+			"m_PreloadIndex": 41,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_2znqbx_1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -707838149118555720 },
+			"m_PreloadIndex": 14,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_2znqbx_2.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -8840801032325393693 },
+			"m_PreloadIndex": 36,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_2znqbx_3.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -7903437854214599770 },
+			"m_PreloadIndex": 19,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_bag_1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6747720114587957438 },
+			"m_PreloadIndex": 44,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_bag_2.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4112792436199503601 },
+			"m_PreloadIndex": 17,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_bag_3.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1484551021465688727 },
+			"m_PreloadIndex": 95,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_bag_4.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 5260622388179286858 },
+			"m_PreloadIndex": 2,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_box_1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -236552496369413794 },
+			"m_PreloadIndex": 64,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_box_2.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -6729750433248694479 },
+			"m_PreloadIndex": 46,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_box_3.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4665822301662836384 },
+			"m_PreloadIndex": 29,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_box_4.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 353999396676118316 },
+			"m_PreloadIndex": 83,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_clothbox_01.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -1546088229800724973 },
+			"m_PreloadIndex": 24,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_clothbox_02.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -5793668038317103263 },
+			"m_PreloadIndex": 40,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_clothbox_03.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -8770700593693171746 },
+			"m_PreloadIndex": 63,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_clothbox_04.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4034972605233545355 },
+			"m_PreloadIndex": 61,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_clothbox_05.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -749893966488453382 },
+			"m_PreloadIndex": 58,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_com_btn_jiangli1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -6722093697947329839 },
+			"m_PreloadIndex": 78,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_com_btn_jiangli1_1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -2788177696223316506 },
+			"m_PreloadIndex": 30,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_com_btn_jiangli2.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 7885994728682584300 },
+			"m_PreloadIndex": 16,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_com_btn_jiangli2_1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1904434474057940321 },
+			"m_PreloadIndex": 97,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_equipbox_dps01.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -8576831125312149946 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_equipbox_dps02.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 255733650223059743 },
+			"m_PreloadIndex": 71,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_equipbox_dps03.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -5656067510078329696 },
+			"m_PreloadIndex": 54,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_equipbox_dps04.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6421758837472783636 },
+			"m_PreloadIndex": 11,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_equipbox_dps05.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4448460006918450678 },
+			"m_PreloadIndex": 5,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_equipbox_sup01.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1912205742043690259 },
+			"m_PreloadIndex": 1,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_equipbox_sup02.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 2297979745043281144 },
+			"m_PreloadIndex": 38,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_equipbox_sup03.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -2035368097189944384 },
+			"m_PreloadIndex": 22,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_equipbox_sup04.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 5907433503364404396 },
+			"m_PreloadIndex": 72,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_equipbox_sup05.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -7580908835044140012 },
+			"m_PreloadIndex": 76,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_equipbox_tank01.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -7424550993156350986 },
+			"m_PreloadIndex": 90,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_equipbox_tank02.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1953318421095734256 },
+			"m_PreloadIndex": 93,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_equipbox_tank03.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1859928120886651213 },
+			"m_PreloadIndex": 84,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_equipbox_tank04.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -1737305926070643717 },
+			"m_PreloadIndex": 18,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_equipbox_tank05.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4575764456116531727 },
+			"m_PreloadIndex": 7,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_fetterbox_1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -7516359144117683152 },
+			"m_PreloadIndex": 89,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_fetterbox_2.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4284810543704802380 },
+			"m_PreloadIndex": 92,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_gaizaobox_01.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4987836384625517011 },
+			"m_PreloadIndex": 96,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_gift_1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 8479825275946436855 },
+			"m_PreloadIndex": 12,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_gift_2.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 484507775661933545 },
+			"m_PreloadIndex": 43,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_gift_3.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 7022247039108638225 },
+			"m_PreloadIndex": 60,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_gift_4.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6920790998317227531 },
+			"m_PreloadIndex": 98,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_gift_5.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -279733897040305817 },
+			"m_PreloadIndex": 26,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_gift_6.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -3793310080962419388 },
+			"m_PreloadIndex": 31,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_gift_7.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -7193201446173174087 },
+			"m_PreloadIndex": 23,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_gift_8.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4534159381911081206 },
+			"m_PreloadIndex": 69,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_helmetbox_01.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 550202601137734660 },
+			"m_PreloadIndex": 75,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_helmetbox_02.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 9088162712297465744 },
+			"m_PreloadIndex": 32,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_helmetbox_03.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4541614767620072302 },
+			"m_PreloadIndex": 33,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_helmetbox_04.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 8602001446869505628 },
+			"m_PreloadIndex": 49,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_helmetbox_05.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -8821360510949342551 },
+			"m_PreloadIndex": 94,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_herochip_1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -2713774362319108894 },
+			"m_PreloadIndex": 52,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_herochip_2.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -2630276004906455642 },
+			"m_PreloadIndex": 51,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_herochip_3.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4602554597854261517 },
+			"m_PreloadIndex": 50,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_herochip_4.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -1251149444947652358 },
+			"m_PreloadIndex": 25,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_herochip_select_3.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -8493993643140746807 },
+			"m_PreloadIndex": 82,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_herochip_select_4.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4080213684012524499 },
+			"m_PreloadIndex": 10,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_icon_mybx_01.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6627394193557418547 },
+			"m_PreloadIndex": 62,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_icon_mybx_02.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -6132313700746229840 },
+			"m_PreloadIndex": 91,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_icon_mypm_01.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1916571880809501595 },
+			"m_PreloadIndex": 56,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_icon_mypm_02.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6644406478910123486 },
+			"m_PreloadIndex": 45,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_icon_mypm_03.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -3612143811047794537 },
+			"m_PreloadIndex": 3,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_randomequip_01.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6364811531239121671 },
+			"m_PreloadIndex": 34,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_randomequip_02.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1947968264730085529 },
+			"m_PreloadIndex": 86,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_randomequip_03.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6325814488377754229 },
+			"m_PreloadIndex": 77,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_randomequip_04.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6497883423533023774 },
+			"m_PreloadIndex": 20,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_randomequip_05.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1775502211241352840 },
+			"m_PreloadIndex": 79,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_randomequipauto_04.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 7732671104413357950 },
+			"m_PreloadIndex": 4,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_sdbx_1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -3045367193415332286 },
+			"m_PreloadIndex": 67,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_sdbx_2.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 8072968172508024011 },
+			"m_PreloadIndex": 6,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_sdbx_3.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6516162176164679227 },
+			"m_PreloadIndex": 27,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_shengqibox_01.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4260135780516712299 },
+			"m_PreloadIndex": 47,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_shoesbox_01.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -9102092534975678092 },
+			"m_PreloadIndex": 85,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_shoesbox_02.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6161973153797920156 },
+			"m_PreloadIndex": 65,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_shoesbox_03.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 7645397858353046061 },
+			"m_PreloadIndex": 59,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_shoesbox_04.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -7230534675311351188 },
+			"m_PreloadIndex": 42,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_shoesbox_05.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -1299862508773382564 },
+			"m_PreloadIndex": 55,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_skillbox_1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4790274024071918763 },
+			"m_PreloadIndex": 70,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_skillbox_2.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1274733208462954216 },
+			"m_PreloadIndex": 21,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_skillbox_3.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1109208436538461252 },
+			"m_PreloadIndex": 57,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_weaponbox_01.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4243018480035977815 },
+			"m_PreloadIndex": 68,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_weaponbox_02.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4452172476775794848 },
+			"m_PreloadIndex": 74,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_weaponbox_03.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 9008569312046647781 },
+			"m_PreloadIndex": 80,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_weaponbox_04.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -651689273000618359 },
+			"m_PreloadIndex": 66,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_weaponbox_05.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -891817418433889343 },
+			"m_PreloadIndex": 48,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_xcbx_1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -7537940508409655042 },
+			"m_PreloadIndex": 53,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_xcbx_2.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 507419168935833748 },
+			"m_PreloadIndex": 39,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_xcbx_3.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 7688637571415377046 },
+			"m_PreloadIndex": 35,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_xrbx_1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -3572173331616414558 },
+			"m_PreloadIndex": 73,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_xrbx_2.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4881695394631186799 },
+			"m_PreloadIndex": 88,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_xrbx_3.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 3896899494259140316 },
+			"m_PreloadIndex": 37,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_zhaomubox_1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4241170064168017920 },
+			"m_PreloadIndex": 13,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_zhaomubox_2.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 435634929703485728 },
+			"m_PreloadIndex": 15,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_znqbx_1.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 8910592698680409197 },
+			"m_PreloadIndex": 81,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_znqbx_2.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -8501171319805519499 },
+			"m_PreloadIndex": 8,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_znqbx_3.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 8619322691021915676 },
+			"m_PreloadIndex": 28,
+			"m_PreloadSize": 1
+		},
+		"assets/artresources/output/ui/force/ui_icon_item_box/ui_zytxqhlzx.png": {
+			"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -2324929534826837919 },
+			"m_PreloadIndex": 9,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "ui_icon_item_box.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -8576831125312149946 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1912205742043690259 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 5260622388179286858 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -3612143811047794537 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 7732671104413357950 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4448460006918450678 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 8072968172508024011 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4575764456116531727 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -8501171319805519499 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -2324929534826837919 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4080213684012524499 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6421758837472783636 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 8479825275946436855 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4241170064168017920 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -707838149118555720 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 435634929703485728 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 7885994728682584300 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4112792436199503601 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -1737305926070643717 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -7903437854214599770 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6497883423533023774 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1274733208462954216 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -2035368097189944384 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -7193201446173174087 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -1546088229800724973 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -1251149444947652358 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -279733897040305817 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6516162176164679227 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 8619322691021915676 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4665822301662836384 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -2788177696223316506 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -3793310080962419388 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 9088162712297465744 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4541614767620072302 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6364811531239121671 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 7688637571415377046 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -8840801032325393693 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 3896899494259140316 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 2297979745043281144 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 507419168935833748 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -5793668038317103263 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4030733457371855267 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -7230534675311351188 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 484507775661933545 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6747720114587957438 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6644406478910123486 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -6729750433248694479 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4260135780516712299 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -891817418433889343 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 8602001446869505628 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4602554597854261517 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -2630276004906455642 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -2713774362319108894 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -7537940508409655042 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -5656067510078329696 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -1299862508773382564 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1916571880809501595 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1109208436538461252 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -749893966488453382 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 7645397858353046061 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 7022247039108638225 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4034972605233545355 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6627394193557418547 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -8770700593693171746 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -236552496369413794 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6161973153797920156 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -651689273000618359 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -3045367193415332286 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4243018480035977815 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4534159381911081206 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4790274024071918763 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 255733650223059743 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 5907433503364404396 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -3572173331616414558 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4452172476775794848 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 550202601137734660 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -7580908835044140012 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6325814488377754229 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -6722093697947329839 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1775502211241352840 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 9008569312046647781 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 8910592698680409197 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -8493993643140746807 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 353999396676118316 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1859928120886651213 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -9102092534975678092 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1947968264730085529 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -4617215140249684653 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4881695394631186799 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -7516359144117683152 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -7424550993156350986 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -6132313700746229840 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4284810543704802380 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1953318421095734256 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": -8821360510949342551 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1484551021465688727 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 4987836384625517011 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 1904434474057940321 },
+		{ "m_Collection": "cab-e13fb20fd665446827c363daff309d27", "m_PathID": 6920790998317227531 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

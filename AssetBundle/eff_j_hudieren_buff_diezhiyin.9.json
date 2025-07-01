@@ -1,0 +1,46 @@
+{
+	"m_AssetBundleName": "eff_j_hudieren_buff_diezhiyin.9",
+	"m_Container": {
+		"assets/artresources/output/effect/buff/eff_j_hudieren_buff_diezhiyin.prefab": {
+			"m_Asset": { "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 3501270208033408716 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 15
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 0 },
+	"m_Dependencies": [
+		"eff_j_tex_hudieren_hudie_01.9",
+		"shader_list.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "eff_j_hudieren_buff_diezhiyin.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": -6592397141949584546 },
+		{ "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 8653331048978899796 },
+		{ "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": -4094353870981535197 },
+		{ "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": -3478733400127835207 },
+		{ "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": -2699875051476003576 },
+		{ "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 261757450468241866 },
+		{ "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 568964173650335294 },
+		{ "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 838070674274790683 },
+		{ "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 3501270208033408716 },
+		{ "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 4897855064213711955 },
+		{ "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 5100652713719650714 },
+		{ "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 6038375317485280899 },
+		{ "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 6591262838460097556 },
+		{ "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 6724611212828133426 },
+		{ "m_Collection": "cab-a47e45de43ff5f69beeaaea9ee1f7837", "m_PathID": 7832719803420810481 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

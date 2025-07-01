@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "lh2_banwenwuyilang_1.9",
+	"m_Container": {
+		"assets/artresources/output/ui/uisingle/lihui2_force/lh2_banwenwuyilang_1.png": {
+			"m_Asset": { "m_Collection": "cab-874cb8f9d80ab49f7b064ac549bbdc17", "m_PathID": 4171527556959162157 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-874cb8f9d80ab49f7b064ac549bbdc17", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-874cb8f9d80ab49f7b064ac549bbdc17", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "lh2_banwenwuyilang_1.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-874cb8f9d80ab49f7b064ac549bbdc17", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-874cb8f9d80ab49f7b064ac549bbdc17", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-874cb8f9d80ab49f7b064ac549bbdc17", "m_PathID": 4171527556959162157 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

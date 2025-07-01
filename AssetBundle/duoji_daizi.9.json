@@ -1,0 +1,46 @@
+{
+	"m_AssetBundleName": "duoji_daizi.9",
+	"m_Container": {
+		"assets/artresources/artbase/model/role/role_duoji_heifa/duoji_daizi.fbx": {
+			"m_Asset": { "m_Collection": "cab-ee9c2436f1ccf8ecc6d53c691029aef0", "m_PathID": -4095093180828249736 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 9
+		},
+		"assets/artresources/artbase/model/role/role_duoji_heifa/duoji_daizi.fbx": {
+			"m_Asset": { "m_Collection": "cab-ee9c2436f1ccf8ecc6d53c691029aef0", "m_PathID": -3294570480730398597 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 9
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-ee9c2436f1ccf8ecc6d53c691029aef0", "m_PathID": 0 },
+	"m_Dependencies": [
+		"duoji_piaodai.9",
+		"duoji_piaodai_y.9",
+		"shader_list.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-ee9c2436f1ccf8ecc6d53c691029aef0", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "duoji_daizi.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-ee9c2436f1ccf8ecc6d53c691029aef0", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-ee9c2436f1ccf8ecc6d53c691029aef0", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_FileID": 2, "m_PathID": -1731577697498969749 },
+		{ "m_Collection": "cab-ee9c2436f1ccf8ecc6d53c691029aef0", "m_PathID": -9165868174233498009 },
+		{ "m_FileID": 3, "m_PathID": 6442193881553902241 },
+		{ "m_Collection": "cab-ee9c2436f1ccf8ecc6d53c691029aef0", "m_PathID": -4095093180828249736 },
+		{ "m_Collection": "cab-ee9c2436f1ccf8ecc6d53c691029aef0", "m_PathID": -3434758258595583981 },
+		{ "m_Collection": "cab-ee9c2436f1ccf8ecc6d53c691029aef0", "m_PathID": -3294570480730398597 },
+		{ "m_Collection": "cab-ee9c2436f1ccf8ecc6d53c691029aef0", "m_PathID": -3207200969855810402 },
+		{ "m_Collection": "cab-ee9c2436f1ccf8ecc6d53c691029aef0", "m_PathID": -2230962984524738460 },
+		{ "m_Collection": "cab-ee9c2436f1ccf8ecc6d53c691029aef0", "m_PathID": -1966823945818441351 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

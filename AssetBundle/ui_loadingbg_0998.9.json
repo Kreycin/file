@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "ui_loadingbg_0998.9",
+	"m_Container": {
+		"assets/artresources/output/ui/uisingle/ui_loading_bg/ui_loadingbg_0998.png": {
+			"m_Asset": { "m_Collection": "cab-f67401e9c588e736e15aa880b0c42538", "m_PathID": -5075155033170919412 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-f67401e9c588e736e15aa880b0c42538", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-f67401e9c588e736e15aa880b0c42538", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "ui_loadingbg_0998.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-f67401e9c588e736e15aa880b0c42538", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-f67401e9c588e736e15aa880b0c42538", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-f67401e9c588e736e15aa880b0c42538", "m_PathID": -5075155033170919412 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

@@ -1,0 +1,42 @@
+{
+	"m_AssetBundleName": "kuang001.9",
+	"m_Container": {
+		"assets/artresources/artbase/effect/effect_mesh/kuang001.fbx": {
+			"m_Asset": { "m_Collection": "cab-ac7fbb5022521739155c10043206c9b2", "m_PathID": -5723631728288253400 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 7
+		},
+		"assets/artresources/artbase/effect/effect_mesh/kuang001.fbx": {
+			"m_Asset": { "m_Collection": "cab-ac7fbb5022521739155c10043206c9b2", "m_PathID": -5085381973992502150 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 7
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-ac7fbb5022521739155c10043206c9b2", "m_PathID": 0 },
+	"m_Dependencies": [
+		"shader_list.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-ac7fbb5022521739155c10043206c9b2", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "kuang001.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-ac7fbb5022521739155c10043206c9b2", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-ac7fbb5022521739155c10043206c9b2", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-ac7fbb5022521739155c10043206c9b2", "m_PathID": 4947440375575313456 },
+		{ "m_Collection": "cab-ac7fbb5022521739155c10043206c9b2", "m_PathID": -6228088570447046462 },
+		{ "m_Collection": "cab-ac7fbb5022521739155c10043206c9b2", "m_PathID": -5723631728288253400 },
+		{ "m_Collection": "cab-ac7fbb5022521739155c10043206c9b2", "m_PathID": -5558007376272601422 },
+		{ "m_Collection": "cab-ac7fbb5022521739155c10043206c9b2", "m_PathID": -5085381973992502150 },
+		{ "m_Collection": "cab-ac7fbb5022521739155c10043206c9b2", "m_PathID": -4426916408514422278 },
+		{ "m_Collection": "cab-ac7fbb5022521739155c10043206c9b2", "m_PathID": 8463654812846297092 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

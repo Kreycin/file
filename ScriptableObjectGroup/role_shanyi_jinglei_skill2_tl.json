@@ -1,0 +1,26 @@
+{
+	"Name": "role_shanyi_jinglei_skill2_tl",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3514529673354611437 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5262693279190062437 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6769319102046345749 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8281775661166060144 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3732168851753643312 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 9007268557631825694 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7027022756558982857 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 4312739493915787218 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 1513714440710649367 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -8699176293134987841 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -3610382766923167027 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 586729163846714174 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 8444316659151408274 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 9091186816081971840 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -524188126924059112 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2839273751047000400 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 7757817416000773995 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5474441306346870541 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -855669396487527014 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -4799516456294550530 }
+	]
+}

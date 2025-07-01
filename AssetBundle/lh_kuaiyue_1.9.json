@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "lh_kuaiyue_1.9",
+	"m_Container": {
+		"assets/artresources/output/ui/uisingle/lihui_force/lh_kuaiyue_1.png": {
+			"m_Asset": { "m_Collection": "cab-a5350a6c21f36203c14a7530b255fbbb", "m_PathID": -6882392878702253307 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-a5350a6c21f36203c14a7530b255fbbb", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-a5350a6c21f36203c14a7530b255fbbb", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "lh_kuaiyue_1.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-a5350a6c21f36203c14a7530b255fbbb", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-a5350a6c21f36203c14a7530b255fbbb", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-a5350a6c21f36203c14a7530b255fbbb", "m_PathID": -6882392878702253307 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

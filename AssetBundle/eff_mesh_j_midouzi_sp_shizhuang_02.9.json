@@ -1,0 +1,43 @@
+{
+	"m_AssetBundleName": "eff_mesh_j_midouzi_sp_shizhuang_02.9",
+	"m_Container": {
+		"assets/artresources/artbase/effect/effect_mesh/eff_mesh_j_midouzi_sp_shizhuang_02.fbx": {
+			"m_Asset": { "m_Collection": "cab-439d1249d64825bfb212efa35e4d77de", "m_PathID": -1577588539588043402 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 8
+		},
+		"assets/artresources/artbase/effect/effect_mesh/eff_mesh_j_midouzi_sp_shizhuang_02.fbx": {
+			"m_Asset": { "m_Collection": "cab-439d1249d64825bfb212efa35e4d77de", "m_PathID": 1182015171033701537 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 8
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-439d1249d64825bfb212efa35e4d77de", "m_PathID": 0 },
+	"m_Dependencies": [
+		"shader_list.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-439d1249d64825bfb212efa35e4d77de", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "eff_mesh_j_midouzi_sp_shizhuang_02.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-439d1249d64825bfb212efa35e4d77de", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-439d1249d64825bfb212efa35e4d77de", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-439d1249d64825bfb212efa35e4d77de", "m_PathID": 8931043560671302228 },
+		{ "m_Collection": "cab-439d1249d64825bfb212efa35e4d77de", "m_PathID": -7606862955398020295 },
+		{ "m_Collection": "cab-439d1249d64825bfb212efa35e4d77de", "m_PathID": -2644540055042550690 },
+		{ "m_Collection": "cab-439d1249d64825bfb212efa35e4d77de", "m_PathID": -1577588539588043402 },
+		{ "m_Collection": "cab-439d1249d64825bfb212efa35e4d77de", "m_PathID": -543442513176514005 },
+		{ "m_Collection": "cab-439d1249d64825bfb212efa35e4d77de", "m_PathID": 1182015171033701537 },
+		{ "m_Collection": "cab-439d1249d64825bfb212efa35e4d77de", "m_PathID": 1538030554533202402 },
+		{ "m_Collection": "cab-439d1249d64825bfb212efa35e4d77de", "m_PathID": 6975505282133334523 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

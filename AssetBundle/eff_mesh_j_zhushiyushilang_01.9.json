@@ -1,0 +1,42 @@
+{
+	"m_AssetBundleName": "eff_mesh_j_zhushiyushilang_01.9",
+	"m_Container": {
+		"assets/artresources/artbase/effect/effect_mesh/eff_mesh_j_zhushiyushilang_01.fbx": {
+			"m_Asset": { "m_Collection": "cab-1ad5c7ee5e060f21c9b738ed834fc139", "m_PathID": -7653416663004667696 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 7
+		},
+		"assets/artresources/artbase/effect/effect_mesh/eff_mesh_j_zhushiyushilang_01.fbx": {
+			"m_Asset": { "m_Collection": "cab-1ad5c7ee5e060f21c9b738ed834fc139", "m_PathID": 6457584841867466080 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 7
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-1ad5c7ee5e060f21c9b738ed834fc139", "m_PathID": 0 },
+	"m_Dependencies": [
+		"shader_list.9"
+	],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-1ad5c7ee5e060f21c9b738ed834fc139", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "eff_mesh_j_zhushiyushilang_01.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-1ad5c7ee5e060f21c9b738ed834fc139", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-1ad5c7ee5e060f21c9b738ed834fc139", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-1ad5c7ee5e060f21c9b738ed834fc139", "m_PathID": -7653416663004667696 },
+		{ "m_Collection": "cab-1ad5c7ee5e060f21c9b738ed834fc139", "m_PathID": -4805885165430707872 },
+		{ "m_Collection": "cab-1ad5c7ee5e060f21c9b738ed834fc139", "m_PathID": -4426916408514422278 },
+		{ "m_Collection": "cab-1ad5c7ee5e060f21c9b738ed834fc139", "m_PathID": -2360489463620006972 },
+		{ "m_Collection": "cab-1ad5c7ee5e060f21c9b738ed834fc139", "m_PathID": 4760015095082671618 },
+		{ "m_Collection": "cab-1ad5c7ee5e060f21c9b738ed834fc139", "m_PathID": 6457584841867466080 },
+		{ "m_Collection": "cab-1ad5c7ee5e060f21c9b738ed834fc139", "m_PathID": 4947440375575313456 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

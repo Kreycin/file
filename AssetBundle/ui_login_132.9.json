@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "ui_login_132.9",
+	"m_Container": {
+		"assets/artresources/output/ui/uisingle/ui_login/ui_login_132.jpg": {
+			"m_Asset": { "m_Collection": "cab-cf195f6c43f2c919319998c00b22cda5", "m_PathID": -9094615446148866416 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-cf195f6c43f2c919319998c00b22cda5", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-cf195f6c43f2c919319998c00b22cda5", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "ui_login_132.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-cf195f6c43f2c919319998c00b22cda5", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-cf195f6c43f2c919319998c00b22cda5", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-cf195f6c43f2c919319998c00b22cda5", "m_PathID": -9094615446148866416 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

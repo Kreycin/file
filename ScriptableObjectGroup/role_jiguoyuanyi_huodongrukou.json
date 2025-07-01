@@ -1,0 +1,16 @@
+{
+	"Name": "role_jiguoyuanyi_huodongrukou",
+	"FileExtension ?? \"\"": "playable",
+	"Root": { "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2303434267653755996 },
+	"Children": [
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -702236107267544248 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 6066354348256889472 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -1265512017142667590 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2044103788027738510 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -2050590579346346834 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 2839654387271203570 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 5486485715413425396 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": -5583465911322801640 },
+		{ "m_Collection": "Generated Scriptable Object Groups", "m_PathID": 3951619869492641403 }
+	]
+}

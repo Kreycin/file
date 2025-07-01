@@ -1,0 +1,29 @@
+{
+	"m_AssetBundleName": "campskill_atlas0.9",
+	"m_Container": {
+		"assets/ui/english/campskill_atlas0.png": {
+			"m_Asset": { "m_Collection": "cab-d92f2c47b01548845661399d1d113809", "m_PathID": 7655334141759157217 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-d92f2c47b01548845661399d1d113809", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 0,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-d92f2c47b01548845661399d1d113809", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "campskill_atlas0.9",
+	"m_PathFlags": 7,
+	"m_PrefabAsset": { "m_Collection": "cab-d92f2c47b01548845661399d1d113809", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-d92f2c47b01548845661399d1d113809", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-d92f2c47b01548845661399d1d113809", "m_PathID": 7655334141759157217 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}
